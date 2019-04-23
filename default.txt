@@ -1,0 +1,6 @@
+https://github.com/EmpireProject/Empire.git
+https://github.com/n1nj4sec/pupy.git
+https://github.com/zerosum0x0/koadic.git
+https://github.com/thelinuxchoice/meterfree.git
+https://github.com/sqlmapproject/sqlmap.git
+https://github.com/kgretzky/evilginx2.git
